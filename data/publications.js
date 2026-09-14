@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-09-13T10:20:55+00:00",
+  "generatedAt": "2026-09-14T10:44:47+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -254,23 +254,6 @@ window.PUBLICATIONS_DATA = {
       "url": "https://doi.org/10.1109/coase.2019.8843207",
       "doi": "https://doi.org/10.1109/coase.2019.8843207",
       "openAlexCitations": 7
-    },
-    {
-      "title": "Argumentation-Based Incremental Learning for Home Robotics",
-      "authors": [
-        "Hamed Ayoobi",
-        "Ming Cao",
-        "Rineke Verbrugge",
-        "Bart Verheij"
-      ],
-      "year": 2019,
-      "date": "2019-01-01",
-      "venue": "",
-      "category": "article",
-      "label": "Journal article",
-      "url": "https://openalex.org/W2973707868",
-      "doi": null,
-      "openAlexCitations": 0
     }
   ]
 };
