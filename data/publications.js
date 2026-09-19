@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-09-18T09:50:16+00:00",
+  "generatedAt": "2026-09-19T09:34:30+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -73,7 +73,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1609/aaai.v39i2.32173",
       "doi": "https://doi.org/10.1609/aaai.v39i2.32173",
-      "openAlexCitations": 3
+      "openAlexCitations": 4
     },
     {
       "title": "Contestable AI Needs Computational Argumentation",
