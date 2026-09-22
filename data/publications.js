@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-09-21T10:48:07+00:00",
+  "generatedAt": "2026-09-22T10:04:01+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -81,7 +81,7 @@ window.PUBLICATIONS_DATA = {
         "Francesco Leofante",
         "Hamed Ayoobi",
         "Adam Dejl",
-        "Gabriel Freedman",
+        "Gabriel P. Freedman",
         "Deniz Gorur",
         "Junqi Jiang",
         "Guilherme Paulino-Passos",
@@ -99,7 +99,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 6
+      "openAlexCitations": 8
     },
     {
       "title": "SpArX: Sparse Argumentative Explanations for Neural Networks",
@@ -145,7 +145,7 @@ window.PUBLICATIONS_DATA = {
         "Hamed Ayoobi",
         "H. Kasaei",
         "Ming Cao",
-        "R. Verbrugge",
+        "Rineke Verbrugge",
         "Bart Verheij"
       ],
       "year": 2023,
