@@ -1,9 +1,26 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-09-22T10:04:01+00:00",
+  "generatedAt": "2026-09-23T10:04:01+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
   "publications": [
+    {
+      "title": "From Latent Biomarkers to Clinical Rules: Embedding-Guided Rule Mining and Attribution-Based Translation for Interpretable Tabular Learning",
+      "authors": [
+        "Majid Lotfian Delouee",
+        "Hamed Ayoobi",
+        "Sjors G. J. G. In \u2018t Veld",
+        "Martijn C. Schut"
+      ],
+      "year": 2026,
+      "date": "2026-08-26",
+      "venue": "arXiv (Cornell University)",
+      "category": "preprint",
+      "label": "Preprint",
+      "url": "https://doi.org/10.48550/arxiv.2609.22155",
+      "doi": "https://doi.org/10.48550/arxiv.2609.22155",
+      "openAlexCitations": 0
+    },
     {
       "title": "Argumentative Debates for Transparent Bias Detection",
       "authors": [
