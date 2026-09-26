@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-09-25T10:15:01+00:00",
+  "generatedAt": "2026-09-26T09:55:45+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -220,7 +220,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1109/tase.2021.3120837",
       "doi": "https://doi.org/10.1109/tase.2021.3120837",
-      "openAlexCitations": 14
+      "openAlexCitations": 15
     },
     {
       "title": "Local-HDP: Interactive open-ended 3D object category recognition in real-time robotic scenarios",
@@ -270,7 +270,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/coase.2019.8843207",
       "doi": "https://doi.org/10.1109/coase.2019.8843207",
-      "openAlexCitations": 7
+      "openAlexCitations": 6
     }
   ]
 };
