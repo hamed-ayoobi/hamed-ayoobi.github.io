@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-09-27T10:35:28+00:00",
+  "generatedAt": "2026-09-28T11:45:27+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -160,7 +160,7 @@ window.PUBLICATIONS_DATA = {
       "title": "Explain What You See: Open-Ended Segmentation and Recognition of Occluded 3D Objects",
       "authors": [
         "Hamed Ayoobi",
-        "H. Kasaei",
+        "Hamidreza Kasaei",
         "Ming Cao",
         "Rineke Verbrugge",
         "Bart Verheij"
@@ -193,7 +193,7 @@ window.PUBLICATIONS_DATA = {
       "authors": [
         "Hamed Ayoobi",
         "Ming Cao",
-        "R. Verbruggey",
+        "Rineke Verbrugge",
         "Bart Verheij"
       ],
       "year": 2021,
@@ -226,7 +226,7 @@ window.PUBLICATIONS_DATA = {
       "title": "Local-HDP: Interactive open-ended 3D object category recognition in real-time robotic scenarios",
       "authors": [
         "Hamed Ayoobi",
-        "H. Kasaei",
+        "Hamidreza Kasaei",
         "Ming Cao",
         "Rineke Verbrugge",
         "Bart Verheij"
@@ -238,7 +238,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1016/j.robot.2021.103911",
       "doi": "https://doi.org/10.1016/j.robot.2021.103911",
-      "openAlexCitations": 12
+      "openAlexCitations": 11
     },
     {
       "title": "Swift distance transformed belief propagation using a novel dynamic label pruning method",
