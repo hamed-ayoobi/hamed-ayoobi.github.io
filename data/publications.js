@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-10-12T13:14:27+00:00",
+  "generatedAt": "2026-10-13T12:45:24+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -163,7 +163,7 @@ window.PUBLICATIONS_DATA = {
         "Hamidreza Kasaei",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij"
+        "Bart Verheij A"
       ],
       "year": 2023,
       "date": "2023-05-29",
@@ -194,7 +194,7 @@ window.PUBLICATIONS_DATA = {
         "Hamed Ayoobi",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij"
+        "Bart Verheij A"
       ],
       "year": 2021,
       "date": "2021-12-01",
@@ -211,7 +211,7 @@ window.PUBLICATIONS_DATA = {
         "Hamed Ayoobi",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij"
+        "Bart Verheij A"
       ],
       "year": 2021,
       "date": "2021-10-29",
@@ -229,7 +229,7 @@ window.PUBLICATIONS_DATA = {
         "Hamidreza Kasaei",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij"
+        "Bart Verheij A"
       ],
       "year": 2021,
       "date": "2021-10-13",
@@ -261,7 +261,7 @@ window.PUBLICATIONS_DATA = {
         "Hamed Ayoobi",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij"
+        "Bart Verheij A"
       ],
       "year": 2019,
       "date": "2019-08-01",
