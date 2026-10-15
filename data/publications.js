@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-10-14T10:17:29+00:00",
+  "generatedAt": "2026-10-15T10:00:47+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -47,7 +47,7 @@ window.PUBLICATIONS_DATA = {
         "David Gardner",
         "Francesca Toni",
         "Lillie Pakzad-Shahabi",
-        "Matt Williams"
+        "Matthew Williams"
       ],
       "year": 2025,
       "date": "2025-09-01",
