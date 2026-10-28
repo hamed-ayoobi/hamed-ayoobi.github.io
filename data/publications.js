@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-10-27T10:39:08+00:00",
+  "generatedAt": "2026-10-28T11:23:36+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -111,7 +111,7 @@ window.PUBLICATIONS_DATA = {
       ],
       "year": 2024,
       "date": "2024-10-26",
-      "venue": "",
+      "venue": "Principles of Knowledge Representation and Reasoning",
       "category": "conference",
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
