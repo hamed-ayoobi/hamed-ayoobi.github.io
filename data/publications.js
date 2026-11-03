@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-02T13:35:47+00:00",
+  "generatedAt": "2026-11-03T12:50:43+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -132,7 +132,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.3233/faia230265",
       "doi": "https://doi.org/10.3233/faia230265",
-      "openAlexCitations": 11
+      "openAlexCitations": 10
     },
     {
       "title": "PySpArX - A Python Library for Generating Sparse Argumentative Explanations for Neural Networks",
@@ -238,7 +238,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1016/j.robot.2021.103911",
       "doi": "https://doi.org/10.1016/j.robot.2021.103911",
-      "openAlexCitations": 11
+      "openAlexCitations": 12
     },
     {
       "title": "Swift distance transformed belief propagation using a novel dynamic label pruning method",
