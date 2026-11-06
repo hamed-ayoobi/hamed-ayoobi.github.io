@@ -1,9 +1,44 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-05T13:16:20+00:00",
+  "generatedAt": "2026-11-06T12:59:46+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
   "publications": [
+    {
+      "title": "Development of a 3D CT-based convolutional neural network for automated detection and classification of acetabular fractures",
+      "authors": [
+        "Neeltje M. Trouwborst",
+        "Kaj ten Duis",
+        "Hamed Ayoobi",
+        "Nick Assink",
+        "Job Nicolaas Doornberg",
+        "Sven H. van Helden",
+        "Erik Hermans",
+        "Bhavin Jadav",
+        "Ruurd Lukas Jaarsma",
+        "Esther M.M. Van Lieshout",
+        "Danila Mascarenhas",
+        "Stijn R.J. Mennes",
+        "Jakob van Oldenrijk",
+        "Raul Plomp",
+        "Inge H. F. Reininga",
+        "Mark S. Rickman",
+        "Tjarda N. Tromp",
+        "Michiel H.J. Verhofstad",
+        "Jean\u2010Paul P.M. de Vries",
+        "M.E. Wijffels Mathieu",
+        "Zhibin Liao",
+        "Frank F. A. IJpma"
+      ],
+      "year": 2026,
+      "date": "2026-11-01",
+      "venue": "Injury",
+      "category": "article",
+      "label": "Journal article",
+      "url": "https://doi.org/10.1016/j.injury.2026.113873",
+      "doi": "https://doi.org/10.1016/j.injury.2026.113873",
+      "openAlexCitations": 0
+    },
     {
       "title": "From Latent Biomarkers to Clinical Rules: Embedding-Guided Rule Mining and Attribution-Based Translation for Interpretable Tabular Learning",
       "authors": [
