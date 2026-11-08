@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-07T11:46:39+00:00",
+  "generatedAt": "2026-11-08T11:58:24+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -91,7 +91,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1093/neuonc/noaf185.104",
       "doi": "https://doi.org/10.1093/neuonc/noaf185.104",
-      "openAlexCitations": 0
+      "openAlexCitations": 1
     },
     {
       "title": "Hidden Conflicts in Neural Networks and their Implications for Explainability",
@@ -109,7 +109,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1145/3715275.3732100",
       "doi": "https://doi.org/10.1145/3715275.3732100",
-      "openAlexCitations": 1
+      "openAlexCitations": 4
     },
     {
       "title": "ProtoArgNet: Interpretable Image Classification with Super-Prototypes and Argumentation",
@@ -125,7 +125,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1609/aaai.v39i2.32173",
       "doi": "https://doi.org/10.1609/aaai.v39i2.32173",
-      "openAlexCitations": 5
+      "openAlexCitations": 11
     },
     {
       "title": "Contestable AI Needs Computational Argumentation",
@@ -151,7 +151,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 11
+      "openAlexCitations": 28
     },
     {
       "title": "SpArX: Sparse Argumentative Explanations for Neural Networks",
@@ -207,7 +207,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icra48891.2023.10160927",
       "doi": "https://doi.org/10.1109/icra48891.2023.10160927",
-      "openAlexCitations": 3
+      "openAlexCitations": 4
     },
     {
       "title": "Explain what you see",
@@ -238,7 +238,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icmla52953.2021.00183",
       "doi": "https://doi.org/10.1109/icmla52953.2021.00183",
-      "openAlexCitations": 6
+      "openAlexCitations": 8
     },
     {
       "title": "Argumentation-Based Online Incremental Learning",
@@ -255,7 +255,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1109/tase.2021.3120837",
       "doi": "https://doi.org/10.1109/tase.2021.3120837",
-      "openAlexCitations": 15
+      "openAlexCitations": 17
     },
     {
       "title": "Local-HDP: Interactive open-ended 3D object category recognition in real-time robotic scenarios",
@@ -273,7 +273,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1016/j.robot.2021.103911",
       "doi": "https://doi.org/10.1016/j.robot.2021.103911",
-      "openAlexCitations": 12
+      "openAlexCitations": 13
     },
     {
       "title": "Swift distance transformed belief propagation using a novel dynamic label pruning method",
@@ -305,7 +305,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/coase.2019.8843207",
       "doi": "https://doi.org/10.1109/coase.2019.8843207",
-      "openAlexCitations": 6
+      "openAlexCitations": 7
     }
   ]
 };
