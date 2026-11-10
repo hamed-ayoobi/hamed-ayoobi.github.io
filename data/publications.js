@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-09T13:58:39+00:00",
+  "generatedAt": "2026-11-10T13:32:45+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -216,7 +216,7 @@ window.PUBLICATIONS_DATA = {
       ],
       "year": 2023,
       "date": "2023-01-10",
-      "venue": "",
+      "venue": "University of Groningen research database (University of Groningen / Centre for Information Technology)",
       "category": "article",
       "label": "Doctoral thesis",
       "url": "https://doi.org/10.33612/diss.506782323",
