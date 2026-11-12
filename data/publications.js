@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-11T12:46:11+00:00",
+  "generatedAt": "2026-11-12T13:49:34+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -210,7 +210,7 @@ window.PUBLICATIONS_DATA = {
       "openAlexCitations": 4
     },
     {
-      "title": "Explain what you see",
+      "title": "Explain what you see: argumentation-based learning and robotic vision",
       "authors": [
         "Hamed Ayoobi"
       ],
