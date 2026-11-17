@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-16T13:44:27+00:00",
+  "generatedAt": "2026-11-17T14:33:43+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -71,7 +71,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1609/aaai.v40i23.38965",
       "doi": "https://doi.org/10.1609/aaai.v40i23.38965",
-      "openAlexCitations": 0
+      "openAlexCitations": 2
     },
     {
       "title": "ArgTumour: Integrating Large Language Models and Computational Argumentation to Discuss Treatment Options for High-Grade Glioma",
@@ -91,7 +91,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1093/neuonc/noaf185.104",
       "doi": "https://doi.org/10.1093/neuonc/noaf185.104",
-      "openAlexCitations": 1
+      "openAlexCitations": 3
     },
     {
       "title": "Hidden Conflicts in Neural Networks and their Implications for Explainability",
@@ -109,7 +109,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1145/3715275.3732100",
       "doi": "https://doi.org/10.1145/3715275.3732100",
-      "openAlexCitations": 4
+      "openAlexCitations": 6
     },
     {
       "title": "ProtoArgNet: Interpretable Image Classification with Super-Prototypes and Argumentation",
@@ -125,7 +125,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1609/aaai.v39i2.32173",
       "doi": "https://doi.org/10.1609/aaai.v39i2.32173",
-      "openAlexCitations": 11
+      "openAlexCitations": 24
     },
     {
       "title": "Contestable AI Needs Computational Argumentation",
@@ -139,7 +139,7 @@ window.PUBLICATIONS_DATA = {
         "Guilherme Paulino-Passos",
         "Antonio Rago",
         "Anna Rapberger",
-        "F. Russo",
+        "Fabrizio Russo",
         "Xiang Yin",
         "Dekai Zhang",
         "Francesca Toni"
@@ -151,7 +151,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 30
+      "openAlexCitations": 54
     },
     {
       "title": "SpArX: Sparse Argumentative Explanations for Neural Networks",
@@ -167,7 +167,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.3233/faia230265",
       "doi": "https://doi.org/10.3233/faia230265",
-      "openAlexCitations": 10
+      "openAlexCitations": 18
     },
     {
       "title": "PySpArX - A Python Library for Generating Sparse Argumentative Explanations for Neural Networks",
@@ -207,7 +207,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icra48891.2023.10160927",
       "doi": "https://doi.org/10.1109/icra48891.2023.10160927",
-      "openAlexCitations": 4
+      "openAlexCitations": 8
     },
     {
       "title": "Explain what you see: argumentation-based learning and robotic vision",
@@ -221,6 +221,22 @@ window.PUBLICATIONS_DATA = {
       "label": "Doctoral thesis",
       "url": "https://doi.org/10.33612/diss.506782323",
       "doi": "https://doi.org/10.33612/diss.506782323",
+      "openAlexCitations": 0
+    },
+    {
+      "title": "GraspCaps: A Capsule Network Approach for Familiar 6DoF Object Grasping",
+      "authors": [
+        "Tomas van der Velde",
+        "Hamed Ayoobi",
+        "Kasaei, Hamidreza"
+      ],
+      "year": 2022,
+      "date": "2022-10-07",
+      "venue": "arXiv (Cornell University)",
+      "category": "preprint",
+      "label": "Preprint",
+      "url": "https://doi.org/10.48550/arxiv.2210.03628",
+      "doi": "https://doi.org/10.48550/arxiv.2210.03628",
       "openAlexCitations": 0
     },
     {
@@ -238,7 +254,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icmla52953.2021.00183",
       "doi": "https://doi.org/10.1109/icmla52953.2021.00183",
-      "openAlexCitations": 8
+      "openAlexCitations": 12
     },
     {
       "title": "Argumentation-Based Online Incremental Learning",
@@ -255,7 +271,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1109/tase.2021.3120837",
       "doi": "https://doi.org/10.1109/tase.2021.3120837",
-      "openAlexCitations": 17
+      "openAlexCitations": 25
     },
     {
       "title": "Local-HDP: Interactive open-ended 3D object category recognition in real-time robotic scenarios",
@@ -273,7 +289,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1016/j.robot.2021.103911",
       "doi": "https://doi.org/10.1016/j.robot.2021.103911",
-      "openAlexCitations": 13
+      "openAlexCitations": 16
     },
     {
       "title": "Swift distance transformed belief propagation using a novel dynamic label pruning method",
@@ -288,7 +304,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1049/iet-ipr.2019.1035",
       "doi": "https://doi.org/10.1049/iet-ipr.2019.1035",
-      "openAlexCitations": 3
+      "openAlexCitations": 4
     },
     {
       "title": "Handling Unforeseen Failures Using Argumentation-Based Learning",
@@ -305,7 +321,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/coase.2019.8843207",
       "doi": "https://doi.org/10.1109/coase.2019.8843207",
-      "openAlexCitations": 7
+      "openAlexCitations": 12
     }
   ]
 };
