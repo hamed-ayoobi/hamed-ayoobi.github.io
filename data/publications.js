@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-17T14:33:43+00:00",
+  "generatedAt": "2026-11-18T14:10:04+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -245,7 +245,7 @@ window.PUBLICATIONS_DATA = {
         "Hamed Ayoobi",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij A"
+        "Bart Verheij"
       ],
       "year": 2021,
       "date": "2021-12-01",
