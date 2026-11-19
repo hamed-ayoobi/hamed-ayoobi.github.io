@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-18T14:10:04+00:00",
+  "generatedAt": "2026-11-19T14:29:02+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -128,6 +128,29 @@ window.PUBLICATIONS_DATA = {
       "openAlexCitations": 24
     },
     {
+      "title": "Pub-Guard-LLM: Detecting Retracted Biomedical Articles with Reliable Explanations",
+      "authors": [
+        "Lihu Chen",
+        "Hamed Ayoobi",
+        "Shuojie Fu",
+        "Gabriel Freedman",
+        "Cemre Zor",
+        "Guy Martin",
+        "James Kinross",
+        "Uddhav Vaghela",
+        "Ovidiu \u015eerban",
+        "Francesca Toni"
+      ],
+      "year": 2025,
+      "date": "2025-02-21",
+      "venue": "arXiv (Cornell University)",
+      "category": "preprint",
+      "label": "Preprint",
+      "url": "https://doi.org/10.48550/arxiv.2502.15429",
+      "doi": "https://doi.org/10.48550/arxiv.2502.15429",
+      "openAlexCitations": 6
+    },
+    {
       "title": "Contestable AI Needs Computational Argumentation",
       "authors": [
         "Francesco Leofante",
@@ -198,7 +221,7 @@ window.PUBLICATIONS_DATA = {
         "Hamidreza Kasaei",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij A"
+        "Bart Verheij"
       ],
       "year": 2023,
       "date": "2023-05-29",
@@ -262,7 +285,7 @@ window.PUBLICATIONS_DATA = {
         "Hamed Ayoobi",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij A"
+        "Bart Verheij"
       ],
       "year": 2021,
       "date": "2021-10-29",
@@ -280,7 +303,7 @@ window.PUBLICATIONS_DATA = {
         "Hamidreza Kasaei",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij A"
+        "Bart Verheij"
       ],
       "year": 2021,
       "date": "2021-10-13",
@@ -312,7 +335,7 @@ window.PUBLICATIONS_DATA = {
         "Hamed Ayoobi",
         "Ming Cao",
         "Rineke Verbrugge",
-        "Bart Verheij A"
+        "Bart Verheij"
       ],
       "year": 2019,
       "date": "2019-08-01",
