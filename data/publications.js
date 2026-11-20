@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-19T14:29:02+00:00",
+  "generatedAt": "2026-11-20T14:05:48+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -148,7 +148,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Preprint",
       "url": "https://doi.org/10.48550/arxiv.2502.15429",
       "doi": "https://doi.org/10.48550/arxiv.2502.15429",
-      "openAlexCitations": 6
+      "openAlexCitations": 7
     },
     {
       "title": "Contestable AI Needs Computational Argumentation",
@@ -174,7 +174,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 54
+      "openAlexCitations": 56
     },
     {
       "title": "SpArX: Sparse Argumentative Explanations for Neural Networks",
