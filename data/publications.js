@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-20T14:05:48+00:00",
+  "generatedAt": "2026-11-21T13:31:23+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -125,7 +125,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1609/aaai.v39i2.32173",
       "doi": "https://doi.org/10.1609/aaai.v39i2.32173",
-      "openAlexCitations": 24
+      "openAlexCitations": 25
     },
     {
       "title": "Pub-Guard-LLM: Detecting Retracted Biomedical Articles with Reliable Explanations",
@@ -174,7 +174,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 56
+      "openAlexCitations": 57
     },
     {
       "title": "SpArX: Sparse Argumentative Explanations for Neural Networks",
@@ -206,7 +206,7 @@ window.PUBLICATIONS_DATA = {
         "Francesca Toni"
       ],
       "year": 2023,
-      "date": "2023-08-28",
+      "date": "2023-09-12",
       "venue": "Electronic Proceedings in Theoretical Computer Science",
       "category": "conference",
       "label": "Conference paper",
@@ -321,7 +321,7 @@ window.PUBLICATIONS_DATA = {
         "Mehdi Rezaeian"
       ],
       "year": 2020,
-      "date": "2020-01-29",
+      "date": "2020-06-08",
       "venue": "IET Image Processing",
       "category": "article",
       "label": "Journal article",
