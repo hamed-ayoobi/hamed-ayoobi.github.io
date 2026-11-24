@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-23T16:05:43+00:00",
+  "generatedAt": "2026-11-24T15:57:00+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -49,7 +49,7 @@ window.PUBLICATIONS_DATA = {
       ],
       "year": 2026,
       "date": "2026-08-26",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "category": "preprint",
       "label": "Preprint",
       "url": "https://doi.org/10.48550/arxiv.2609.22155",
@@ -125,7 +125,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1609/aaai.v39i2.32173",
       "doi": "https://doi.org/10.1609/aaai.v39i2.32173",
-      "openAlexCitations": 25
+      "openAlexCitations": 26
     },
     {
       "title": "Pub-Guard-LLM: Detecting Retracted Biomedical Articles with Reliable Explanations",
@@ -143,7 +143,7 @@ window.PUBLICATIONS_DATA = {
       ],
       "year": 2025,
       "date": "2025-02-21",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "category": "preprint",
       "label": "Preprint",
       "url": "https://doi.org/10.48550/arxiv.2502.15429",
@@ -255,7 +255,7 @@ window.PUBLICATIONS_DATA = {
       ],
       "year": 2022,
       "date": "2022-10-07",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "category": "preprint",
       "label": "Preprint",
       "url": "https://doi.org/10.48550/arxiv.2210.03628",
