@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-24T15:57:00+00:00",
+  "generatedAt": "2026-11-25T15:43:22+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -174,7 +174,23 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 63
+      "openAlexCitations": 64
+    },
+    {
+      "title": "Argumentative Interpretable Image Classification",
+      "authors": [
+        "Hamed Ayoobi",
+        "Nico Potyka",
+        "Francesca Toni"
+      ],
+      "year": 2024,
+      "date": "2024-09-28",
+      "venue": "CEUR Workshop Proceedings",
+      "category": "conference",
+      "label": "Conference paper",
+      "url": "https://ceur-ws.org/Vol-3768/paper4.pdf",
+      "doi": null,
+      "openAlexCitations": 0
     },
     {
       "title": "SpArX: Sparse Argumentative Explanations for Neural Networks",
@@ -190,7 +206,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.3233/faia230265",
       "doi": "https://doi.org/10.3233/faia230265",
-      "openAlexCitations": 19
+      "openAlexCitations": 18
     },
     {
       "title": "PySpArX - A Python Library for Generating Sparse Argumentative Explanations for Neural Networks",
@@ -212,7 +228,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.4204/eptcs.385.36",
       "doi": "https://doi.org/10.4204/eptcs.385.36",
-      "openAlexCitations": 2
+      "openAlexCitations": 0
     },
     {
       "title": "Explain What You See: Open-Ended Segmentation and Recognition of Occluded 3D Objects",
@@ -312,7 +328,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1016/j.robot.2021.103911",
       "doi": "https://doi.org/10.1016/j.robot.2021.103911",
-      "openAlexCitations": 16
+      "openAlexCitations": 15
     },
     {
       "title": "Swift distance transformed belief propagation using a novel dynamic label pruning method",
