@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-25T15:43:22+00:00",
+  "generatedAt": "2026-11-26T15:24:33+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -174,7 +174,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 64
+      "openAlexCitations": 66
     },
     {
       "title": "Argumentative Interpretable Image Classification",
@@ -206,7 +206,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.3233/faia230265",
       "doi": "https://doi.org/10.3233/faia230265",
-      "openAlexCitations": 18
+      "openAlexCitations": 21
     },
     {
       "title": "PySpArX - A Python Library for Generating Sparse Argumentative Explanations for Neural Networks",
@@ -246,7 +246,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icra48891.2023.10160927",
       "doi": "https://doi.org/10.1109/icra48891.2023.10160927",
-      "openAlexCitations": 8
+      "openAlexCitations": 9
     },
     {
       "title": "Explain what you see: argumentation-based learning and robotic vision",
@@ -293,7 +293,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icmla52953.2021.00183",
       "doi": "https://doi.org/10.1109/icmla52953.2021.00183",
-      "openAlexCitations": 12
+      "openAlexCitations": 13
     },
     {
       "title": "Argumentation-Based Online Incremental Learning",
@@ -310,7 +310,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1109/tase.2021.3120837",
       "doi": "https://doi.org/10.1109/tase.2021.3120837",
-      "openAlexCitations": 25
+      "openAlexCitations": 26
     },
     {
       "title": "Local-HDP: Interactive open-ended 3D object category recognition in real-time robotic scenarios",
