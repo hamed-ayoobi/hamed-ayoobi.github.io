@@ -1,5 +1,5 @@
 window.PUBLICATIONS_DATA = {
-  "generatedAt": "2026-11-26T15:24:33+00:00",
+  "generatedAt": "2026-11-27T15:11:29+00:00",
   "source": "OpenAlex / ORCID",
   "orcid": "0000-0002-5418-6352",
   "scholarUrl": "https://scholar.google.com/citations?user=JDQUWWoAAAAJ&hl=en",
@@ -31,7 +31,7 @@ window.PUBLICATIONS_DATA = {
         "Frank F. A. IJpma"
       ],
       "year": 2026,
-      "date": "2026-11-01",
+      "date": "2026-11-04",
       "venue": "Injury",
       "category": "article",
       "label": "Journal article",
@@ -125,7 +125,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1609/aaai.v39i2.32173",
       "doi": "https://doi.org/10.1609/aaai.v39i2.32173",
-      "openAlexCitations": 26
+      "openAlexCitations": 27
     },
     {
       "title": "Pub-Guard-LLM: Detecting Retracted Biomedical Articles with Reliable Explanations",
@@ -174,7 +174,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.24963/kr.2024/83",
       "doi": "https://doi.org/10.24963/kr.2024/83",
-      "openAlexCitations": 66
+      "openAlexCitations": 67
     },
     {
       "title": "Argumentative Interpretable Image Classification",
@@ -246,7 +246,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icra48891.2023.10160927",
       "doi": "https://doi.org/10.1109/icra48891.2023.10160927",
-      "openAlexCitations": 9
+      "openAlexCitations": 10
     },
     {
       "title": "Explain what you see: argumentation-based learning and robotic vision",
@@ -293,7 +293,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Conference paper",
       "url": "https://doi.org/10.1109/icmla52953.2021.00183",
       "doi": "https://doi.org/10.1109/icmla52953.2021.00183",
-      "openAlexCitations": 13
+      "openAlexCitations": 14
     },
     {
       "title": "Argumentation-Based Online Incremental Learning",
@@ -310,7 +310,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1109/tase.2021.3120837",
       "doi": "https://doi.org/10.1109/tase.2021.3120837",
-      "openAlexCitations": 26
+      "openAlexCitations": 28
     },
     {
       "title": "Local-HDP: Interactive open-ended 3D object category recognition in real-time robotic scenarios",
@@ -328,7 +328,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1016/j.robot.2021.103911",
       "doi": "https://doi.org/10.1016/j.robot.2021.103911",
-      "openAlexCitations": 15
+      "openAlexCitations": 16
     },
     {
       "title": "Swift distance transformed belief propagation using a novel dynamic label pruning method",
@@ -343,7 +343,7 @@ window.PUBLICATIONS_DATA = {
       "label": "Journal article",
       "url": "https://doi.org/10.1049/iet-ipr.2019.1035",
       "doi": "https://doi.org/10.1049/iet-ipr.2019.1035",
-      "openAlexCitations": 4
+      "openAlexCitations": 5
     },
     {
       "title": "Handling Unforeseen Failures Using Argumentation-Based Learning",
